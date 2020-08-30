@@ -1,0 +1,52 @@
+p {
+    color: green;
+}
+
+.one {
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    font-size: medium;
+}
+
+.google {
+    font-family: tahoma;
+}
+
+.G {
+    margin: 0;
+    margin-right: -20px;
+    margin-left: 300px;
+    font-size: 200px;
+    color: blue
+}
+
+.o {
+    margin-left: -5px;
+    margin-right: -10px;
+    font-size: 200px;
+    color: orange
+}
+
+.g {
+    margin-right: -5px;
+    margin-left: -5px;
+    font-size: 200px;
+    color: blue
+}
+
+.l {
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 200px;
+    color: green
+}
+
+.e {
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 200px;
+    color: red
+}
